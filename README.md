@@ -1,2 +1,2 @@
-# PRODIGY_WD_03
-Tic-Tac-Toe App using HTML, CSS and JavaScript
+# Tic-Tac-Toe
+Tic-Tac-Toe game application using HTML, CSS, and JavaScript
